@@ -2,7 +2,7 @@
 
 *Boundaries between virtual and reality are non-existent.*
 
-**Open Source License:** [CC BY-NC-SA 4.0](https://www.google.com/search?q=https://creativecommons.org/licenses/by-nc-sa/4.0/)
+**Open Source License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 [Read in English](#infinite-precision) | [跳转到中文](#无限虚拟)
 
@@ -155,7 +155,7 @@ Project Aether-Link is an attempt to reconstruct physical reality. We do not man
 
 虚拟与现实本无界限
 
-**开源许可协议：** [CC BY-NC-SA 4.0](https://www.google.com/search?q=https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)
+**开源许可协议：** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 ---
 
